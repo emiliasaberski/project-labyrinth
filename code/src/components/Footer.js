@@ -55,4 +55,5 @@ const StyledA = styled.a`
 const Links = styled.div`
 display: flex;
 flex-direction: row;
+margin-top: 10px;
 `

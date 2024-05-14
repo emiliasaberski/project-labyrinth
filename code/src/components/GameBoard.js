@@ -63,6 +63,7 @@ const GameBoardContainer = styled.div`
     width: 90%;
     max-width: 400px;
     margin: 0 auto;
+    margin-bottom: 40px;
     padding-bottom: 3.5rem;
 
     @media (min-width: 668px) {

@@ -25,7 +25,7 @@ const MainPageContainer = styled.div`
     flex-direction: column;
     position: relative;
     align-items: center;
-    min-height: 100vh;
+    min-height: 90vh;
     max-width: 100vw;
     margin: 0 auto;
     margin-bottom: 20px;
